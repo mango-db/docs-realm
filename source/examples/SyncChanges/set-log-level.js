@@ -1,1 +1,0 @@
-Realm.App.Sync.setLogLevel(app, "debug");

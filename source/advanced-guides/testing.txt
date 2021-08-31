@@ -1,0 +1,35 @@
+.. _android-testing:
+
+=====================
+Testing - Android SDK
+=====================
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: singlecol
+
+Unit Testing
+------------
+
+When unit testing {+service-short+} applications, it's best to mock
+{+client-database+}.
+
+.. seealso::
+
+   See the `Unit Testing Example App
+   <https://github.com/realm/realm-java/tree/master/examples/unitTestExample>`__
+   for an example of how {+service-short+} can be combined with JUnit3,
+   JUnit4, Robolectric, Mockito and PowerMock.
+
+Integration Testing
+-------------------
+
+Integration testing for {+service-short+} applications faces one major
+challenge: the {+client-database+} interface (both local and {+sync+})
+requires an Android application context to access data stored on disk.
+Create an application context, such as a test activity, in your
+application so you can access the database.
