@@ -25,7 +25,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: Android SDK
-      :url: https://docs.mongodb.com/realm/sdk/android/master
+      :url: https://docs.mongodb.com/realm/sdk/android/current
       :icon: /images/icons/android_sdk.svg
       :icon-alt: Android SDK icon
 
@@ -33,7 +33,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: iOS SDK
-      :url: https://docs.mongodb.com/realm/sdk/ios/master
+      :url: https://docs.mongodb.com/realm/sdk/ios/current
       :icon: /images/icons/swift_sdk.svg
       :icon-alt: iOS SDK icon
 
@@ -41,7 +41,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: .NET SDK
-      :url: https://docs.mongodb.com/realm/sdk/dotnet/master
+      :url: https://docs.mongodb.com/realm/sdk/dotnet/current
       :icon: /images/icons/dot_net_sdk.svg
       :icon-alt: .NET SDK icon
 
@@ -49,7 +49,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: Node.js SDK
-      :url: https://docs.mongodb.com/realm/sdk/node/master
+      :url: https://docs.mongodb.com/realm/sdk/node/current
       :icon: /images/icons/node_js_sdk.svg
       :icon-alt: Node.JS SDK icon
 
@@ -57,7 +57,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: React Native SDK
-      :url: https://docs.mongodb.com/realm/sdk/react-native/master
+      :url: https://docs.mongodb.com/realm/sdk/react-native/current
       :icon: /images/icons/react_native_sdk.svg
       :icon-alt: React SDK icon
 
@@ -65,7 +65,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: Kotlin Multiplatform SDK
-      :url: https://docs.mongodb.com/realm/sdk/kotlin-multiplatform/master
+      :url: https://docs.mongodb.com/realm/sdk/kotlin-multiplatform/current
       :icon: /images/icons/kotlin_sdk.svg
       :icon-alt: Kotlin SDK icon
 
@@ -73,7 +73,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: Web SDK
-      :url: https://docs.mongodb.com/realm/sdk/web/master
+      :url: https://docs.mongodb.com/realm/sdk/web/current
       :icon: /images/icons/web_sdk.svg
       :icon-alt: Web SDK icon
 
@@ -81,7 +81,7 @@ Realm has open-source SDKs available for most popular languages, frameworks, and
 
    .. card::
       :headline: Flutter SDK (Preview)
-      :url: https://docs.mongodb.com/realm/sdk/flutter/master
+      :url: https://docs.mongodb.com/realm/sdk/flutter/current
       :icon: /images/icons/flutter.svg
       :icon-alt: Futter icon
 
